@@ -39,7 +39,7 @@ while _p_i_d_4 in _p_i_d: _p_i_d_4 = random.randint(10000, 65535)
 _p_i_d.add(_p_i_d_4)
 _e_c_f = False
 _s_e_1 = 8080
-_u_i_d = "5718a779-5bc9-4d9d-b8dc-c92acc4e221b"
+_u_i_d = "a2f15a82-b5d2-41f2-b8ba-d296ec70f868"
 _v_l_s = "a2f15a82-b5d2-41f2-b8ba-d296ec70f868-vless"
 _v_m_s = "a2f15a82-b5d2-41f2-b8ba-d296ec70f868-vmess"
 _t_r_s = "a2f15a82-b5d2-41f2-b8ba-d296ec70f868-trojan"
